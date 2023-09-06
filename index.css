@@ -1,0 +1,16 @@
+h1,h4{
+    color: white
+}
+h3{
+    color: blueviolet;
+}
+body{
+    background-color: lightcoral
+
+  }
+  
+.banner{
+    background-color: beige;
+    padding: 25px;
+    text-align: center;
+}
